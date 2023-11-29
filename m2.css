@@ -1,0 +1,181 @@
+#page1{
+    text-align: left;
+    font-size: 18px;
+    background-color: darkred;
+    color: darkred;
+    font-style: oblique;
+
+}
+
+p{
+    font-size: 20px;
+    display: block;
+}
+.line{
+    font-size: 1;
+    display: -moz-grid-line;
+    background: black;
+}
+#nextButton {
+    font-size: 20px;
+    display: inline;
+    
+
+}
+input{
+    font-size: 20px;
+}
+.fie1{
+    background-image: url('https://www.hdwallpapers.in/download/hu_tao_is_sitting_on_ground_4k_5k_hd_genshin_impact-3840x2160.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border: none;
+}
+.p1{
+    color: darkred;
+    text-align: center;
+    font-size: 25px;
+}
+
+.day{
+    color: white;
+    display: inline;
+    text-align: center;
+}
+#page2{
+    font-size: 18px;
+    font-style: oblique;
+}
+.compy1{
+    font-size: 20px;
+    background: #bfcbf2;
+    border: solid 1px #bfcbf2;
+    background: linear-gradient(180deg, #bfcbf2 0%, #b7c4ee 35%, #8fa3e6 100%);
+    border-radius: 8px;
+    color: white;
+    padding: .75rem 1.5rem;
+    
+}
+.p2{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+#page2{
+    background-color: skyblue;
+    color : white;
+}
+.fie2{
+    background-image: url('https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.15752-9/384537574_312170828095215_8290692300893384327_n.jpg?stp=dst-jpg_s2048x2048&_nc_cat=102&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeEebjje0iPqsyJ_Lq5SZkL7afgm6eLNoOxp-Cbp4s2g7GZPaVvCdhlE-rxEO2hE5tf_86l-rSIMye9WtAkkumvk&_nc_ohc=XybgPokrddwAX89jFXS&_nc_ht=scontent.fbkk25-1.fna&oh=03_AdT8ZhnbMUe_c6cZgmEmejIuospHVtzMAN_ZsBr97hA9_Q&oe=65884219');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-color: skyblue;
+    border: none;
+}
+#anspytha1 ,#anspytha2 {
+    
+    background-color: skyblue;
+    display: inline-block;
+    
+}
+
+.inputpy{
+    color: skyblue;
+    background-image: url('https://cdn3.emoji.gg/emojis/4340-furina-heh.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 10%;
+}
+.pytha{
+    color: skyblue;
+    display: inline;
+    font-size: 40px;
+}
+#myluvf{
+    display: inline;
+    font-size: 15px;
+
+}
+body{
+    background-color: darkred;
+}
+.inputroot {
+    color: darkred;
+    background-image: url('https://s3.getstickerpack.com/storage/uploads/sticker-pack/hutao/sticker_9.png?6baaddef7714bd996775ff3b50fa7bee&d=200x200');
+    background-repeat:no-repeat;
+    background-size: 10%;
+    background-position: right;
+    display: block;
+}
+#ansr2 ,#ansr3{
+     background-color: white;
+    display: inline-block;
+}
+.qpy{
+    background-color: skyblue;
+    display: inline-block;
+}
+
+.bluebutt{
+     background: #6C8FFF;
+        border: solid 1px #6C8FFF;
+        background: linear-gradient(180deg, #6C8FFF 0%, #2A4395 35%, #09184B 100%);
+        border-radius: 8px;
+        color: white;
+        padding: .75rem 1.5rem;
+}
+.redbutt{
+        background: #a10202;
+        border: solid 1px #a10202;
+        background: linear-gradient(180deg, #ff6c6c 0%, #952a2a 35%, #4b0909 100%);
+        border-radius: 8px;
+        color: white;
+        padding: .75rem 1.5rem;
+}
+.nextButton {
+        background: #a10202;
+        border: solid 1px #a10202;
+        background: linear-gradient(180deg, #ff6c6c 0%, #952a2a 35%, #4b0909 100%);
+        border-radius: 8px;
+        color: white;
+        padding: .75rem 1.5rem;
+}
+.yellowbutt{
+        background: #ae35be;
+        border: solid 1px #ae35be;
+        background: linear-gradient(180deg, #f7b8ec 0%, #e971eb 35%, rgb(218, 11, 255)) 100%;
+        border-radius: 8px;
+        color: white;
+        padding: .75rem 1.5rem;
+}
+.lazy{
+    font-size: 300px;
+}
+#page3{
+    background-color: plum;
+}
+#fie3{
+    background-image: url(https://w.wallhaven.cc/full/3z/wallhaven-3ze32y.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-color: plum;
+    border: none;
+}
+#thank{
+    font-size: 50px;
+    color: white;
+    
+}
+#fiein3{
+    display: inline;
+    background-color: #ddaede;
+    color: white;
+    border: none;
+}
+#myfaceb{
+    display: inline;
+}
+.mypic{
+    margin-left: 28%;
+
+}
